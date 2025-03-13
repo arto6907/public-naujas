@@ -2,3 +2,4 @@
 pamokos
 naujas irasas
 nauja
+patikslinta
